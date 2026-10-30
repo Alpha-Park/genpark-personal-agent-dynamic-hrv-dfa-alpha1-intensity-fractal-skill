@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-dynamic-hrv-dfa-alpha1-intensity-fractal-skill",
+  "version": "1.0.0",
+  "title": "Dynamic DFA Alpha-1 Fractal HRV & Aerobic Threshold Skill",
+  "category": "Personal Agent (Bio / Autonomic Nonlinear Dynamics)",
+  "description": "Calculates short-term Detrended Fluctuation Analysis (DFA a1) fractal scaling of RR-intervals, pinpointing the precise aerobic threshold (a1 = 0.75) during endurance exertion.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "compute_dfa_alpha1_aerobic_threshold"
+  ],
+  "dependencies": []
+}
